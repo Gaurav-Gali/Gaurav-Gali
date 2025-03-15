@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav-gali" alt="gaurav-gali" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [<Link>](<Link>)
+- 👨‍💻 Visit my [Portfolio]("https://www.gauravgali.dev")
 
-- 💬 Ask me about **React, Nextjs, Python, JS, TS**
-
-- 📫 How to reach me **gauravgali.dev@gmail.com**
+- 📫 Reach me at **gauravgali.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-gali&show_icons=true&locale=en&layout=compact" alt="gaurav-gali" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-gali&show_icons=true&locale=en" alt="gaurav-gali" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-gali&" alt="gaurav-gali" /></p>
