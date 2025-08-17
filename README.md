@@ -73,3 +73,28 @@ Here are the technologies and tools I work with:
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav-gali&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-gali&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+
+<!-- 📈 Contribution Graph Before Thanks Section -->
+<h3 align="center">🌟 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-gali&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+---
+
+<!-- ✨ Thanks for Visiting Section with Gradient and Animations -->
+<div align="center" style="margin-top:40px;">
+  <svg width="100%" height="70">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00b4d8;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#ff3e6d;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="34" font-family="Verdana" fill="url(#grad)">
+      ✨ Thanks for Visiting! ✨
+    </text>
+  </svg>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=350&lines=Keep+Exploring+Tech!;Connect+On+LinkedIn+%26+Twitter;Happy+Coding+%F0%9F%91%BB" alt="Animated Messages" />
+</div>
