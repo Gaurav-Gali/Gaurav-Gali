@@ -75,7 +75,7 @@ Here are the technologies and tools I work with:
 </p>
 
 <!-- 📈 Contribution Graph Before Thanks Section -->
-<h3 align="center">🌟 Contribution Graph</h3>
+<!--<h3 align="center">🌟 Contribution Graph</h3>-->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-gali&theme=react-dark" alt="Contribution Graph" />
 </p>
@@ -95,6 +95,4 @@ Here are the technologies and tools I work with:
       ✨ Thanks for Visiting! ✨
     </text>
   </svg>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=350&lines=Keep+Exploring+Tech!;Connect+On+LinkedIn+%26+Twitter;Happy+Coding+%F0%9F%91%BB" alt="Animated Messages" />
 </div>
