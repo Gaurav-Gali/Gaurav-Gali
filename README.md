@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav Gali
 
-Full-stack developer specializing in AI and modern web technologies.
+Full-stack developer specializing in AI/ML/DL and modern web technologies.
 
 <p align="left">
   <a href="https://www.gauravgali.dev" target="_blank">
